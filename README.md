@@ -1,4 +1,3 @@
-#Keti Midis Sienashi
 
 <html lang="en">
 <head>
@@ -51,6 +50,8 @@
 <body>
     <h1>Keti Kvizhinadze</h1>
     ![Keti](keti.jpg)
+
+   
 
 </body>
 </html>
